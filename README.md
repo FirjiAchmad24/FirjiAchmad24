@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Firji Achmad Fahresi</h1>
 
 <h3 align="center">
-Software Developer • Python • Java • Web Development • Automation
+Software Developer • Python • Java • Web • AI • Automation
 </h3>
 
 <p align="center">
-I enjoy building practical software solutions, intelligent systems,
-and developer automation.
+Building practical software, intelligent systems, and developer automation.
 </p>
 
----
+<p align="center">
+  <a href="LINK_LINKEDIN_ANDA">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:EMAIL_ANDA">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 
